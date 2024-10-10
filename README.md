@@ -1,6 +1,8 @@
 # RPC-Discord
 RPC discord multi RPC can custom ( Anime Watch, Custom, Mobile Legends )
 
+## Only PC
+
 # CMD
 ```
 $ git clone https://github.com/nicostore/RPC-Discord.git
